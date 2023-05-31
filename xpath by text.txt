@@ -1,0 +1,19 @@
+xpath by text
+
+Grocery: //div[text()='Grocery']
+Mobile: //div[text()='Mobiles']
+Appliances: //div[text()='Appliances']
+Travel: //div[text()='Travel']
+Topoffers: //div[text()='Top offers'] 
+
+https://shop-global.malaicha.com/login
+rgister>>inspect>>xpath by text
+//button[text()='Register']
+
+*jio.com
+xpath by text
+
+
+https://letcode.in.test
+sign up>>inspect
+
